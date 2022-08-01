@@ -1,1 +1,24 @@
 /* write your override styles here */
+.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 622px;
+  }
+  #tag-2{
+    background-color: aliceblue;
+    border: 3px solid green;
+    border-style: dotted;
+  }
+  #tag-3{
+    background-color: aliceblue;
+    border: 3px solid yellow;
+    border-style: ridge;
+  }
+  #tag-4{
+    background-color: aliceblue;
+    border: 3px solid red;
+    border-style:groove;
+    background-size: contain;
+  }
